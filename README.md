@@ -13,4 +13,4 @@ If you like my project, you can donate at:
 
 ## License
 
-GNU GPL v3
+GNU GPL v2.1
